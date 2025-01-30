@@ -1,20 +1,20 @@
-# Notepad Application
+ Notepad Application
 
 A simple Java Swing-based notepad application with features like file operations, text formatting, and themes.
 
-## Features
+Features
 
 - File Operations (New, Open, Save, Save As)
 - Text Formatting (Font family, size, word wrap)
 - Color Themes (White, Gray, Black)
 - Edit Operations (Undo, Redo)
 
-## Requirements
+ Requirements
 
 - Java 11 or higher
 - Maven
 
-## How to Run in Visual Studio
+How to Run in Visual Studio
 
 1. Open the project in Visual Studio
 2. Make sure you have the following extensions installed:
@@ -30,7 +30,7 @@ A simple Java Swing-based notepad application with features like file operations
    - Open `src/main/java/com/notepad/Main.java`
    - Click the Run button (▶️) or press F5
 
-## Project Structure
+ Project Structure
 
 ```
 notepad-app/
@@ -46,4 +46,4 @@ notepad-app/
 │                   └── EditOperations.java
 ├── pom.xml
 └── README.md
-```
+
