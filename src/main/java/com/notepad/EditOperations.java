@@ -1,3 +1,4 @@
+
 package com.notepad;
 
 public class EditOperations {
