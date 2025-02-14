@@ -1,5 +1,4 @@
 package com.notepad;
-
 import java.awt.*;
 
 public class ColorOperations {
