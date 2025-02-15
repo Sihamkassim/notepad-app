@@ -20,7 +20,7 @@ How to Run in Visual Studio
 2. Make sure you have the following extensions installed:
    - Extension Pack for Java
    - Project Manager for Java
-   - Maven for Java
+   - Maven for Java.
 
 3. Open the project:
    - File -> Open Folder
@@ -31,6 +31,7 @@ How to Run in Visual Studio
    - Click the Run button (▶️) or press F5
 
  Project Structure
+ 
 
 ```
 notepad-app/
